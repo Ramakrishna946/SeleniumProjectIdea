@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad73348-4126-4803-bb55-f0ad5905c78b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Testsample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AddSpaceEveryTwoChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddSpaceEveryTwoChars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Application.CapitalizeWords.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SampleProgram12062025.executor": "Run",
+    "Application.Testsample.executor": "Run",
     "Application.apsrtctesting.executor": "Run",
     "Maven.Seleniumprojects [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -56,7 +57,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "feature3",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/chkri/Desktop/Selenium Projects/Seleniumprojects/src/main/java/org/example/Main.java"
+    "last_opened_file_path": "C:/Users/chkri/Desktop/Idea Projects/Seleniumprojects",
+    "onboarding.tips.debug.path": "C:/Users/chkri/Desktop/Selenium Projects/Seleniumprojects/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -83,9 +86,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.apsrtctesting" />
         <item itemvalue="Application.SampleProgram12062025" />
         <item itemvalue="Application.CalendarAutomation" />
-        <item itemvalue="Application.apsrtctesting" />
       </list>
     </recent_temporary>
   </component>
